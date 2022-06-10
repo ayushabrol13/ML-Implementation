@@ -16,3 +16,5 @@ The algorithms are:
 - [Quadratic Discriminant Analysis](https://github.com/ayushabrol13/ML-Implementation/tree/master/Quadratic%20Discriminant%20Analysis)
 - [Independent Component Analysis](https://github.com/ayushabrol13/ML-Implementation/tree/master/ICA%20%26%20SFS)
 - [SFS](https://github.com/ayushabrol13/ML-Implementation/tree/master/ICA%20%26%20SFS)
+
+PS: I would be adding more algorithms in the future.
